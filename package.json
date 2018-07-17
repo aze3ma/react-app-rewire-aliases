@@ -1,0 +1,9 @@
+{
+  "name": "react-app-rewire-aliases",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-app-rewired": "^1.5.2"
+  }
+}
